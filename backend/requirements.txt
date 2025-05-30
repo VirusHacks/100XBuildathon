@@ -1,0 +1,5 @@
+flask
+pandas
+numpy
+openai
+flask_cors
