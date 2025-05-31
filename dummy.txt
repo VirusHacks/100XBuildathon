@@ -5,3 +5,4 @@ minor style tweaks to recruiter dashboard
 debug async issue in portfolio verification
 refactor: split resume analyzer into smaller modules
 add Kafka worker setup for parallel resume ingestion
+docs: write usage guide for transparency dashboard
