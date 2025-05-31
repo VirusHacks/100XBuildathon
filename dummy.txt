@@ -8,3 +8,4 @@ add Kafka worker setup for parallel resume ingestion
 docs: write usage guide for transparency dashboard
 fix broken route for candidate verification API
 tweak AI matching thresholds for better results
+add loading spinner to candidate results page
