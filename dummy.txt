@@ -11,3 +11,4 @@ tweak AI matching thresholds for better results
 add loading spinner to candidate results page
 write tests for job-candidate matching logic
 remove deprecated NLP agent from pipeline
+enhance explainability interface — added score breakdown
