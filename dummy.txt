@@ -1,1 +1,2 @@
 update AIF360 integration — bias check not triggering as expected
+fix typo in resume parser config
