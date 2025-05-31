@@ -14,3 +14,4 @@ remove deprecated NLP agent from pipeline
 enhance explainability interface — added score breakdown
 bugfix: resume upload sometimes fails silently
 update readme with recent feature highlights
+improve logging around ranking module
