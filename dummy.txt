@@ -9,3 +9,4 @@ docs: write usage guide for transparency dashboard
 fix broken route for candidate verification API
 tweak AI matching thresholds for better results
 add loading spinner to candidate results page
+write tests for job-candidate matching logic
