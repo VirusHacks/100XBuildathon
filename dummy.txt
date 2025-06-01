@@ -15,3 +15,4 @@ enhance explainability interface — added score breakdown
 bugfix: resume upload sometimes fails silently
 update readme with recent feature highlights
 improve logging around ranking module
+add fallback for unsupported resume file types
